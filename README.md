@@ -1,2 +1,2 @@
-# Web3_HTML
+# Web3
 Excercise 3
